@@ -1,23 +1,17 @@
 # ml-uaq
 
-Repositorio oficial del curso de Machine Learning – UAQ.
+Repositorio académico para la materia de Machine Learning (UAQ).
 
 ## Estructura
-- `data/`: datos locales (no se suben datos grandes)
-- `notebooks/`: notebooks semanales
-- `assignments/`: tareas del curso
-- `project/`: proyecto final
-- `src/`: utilidades reutilizables
+Estructura estándar del curso para tareas y proyecto final.
+
+- `data/`
+- `notebooks/`
+- `assignments/`
+- `project/`
+- `src/utils/`
 
 ## Reglas
 - No subir datos grandes
-- Cada tarea incluye:
-  - `solution.ipynb`
-  - `report.pdf`
-- Código reutilizable en `src/`
-
-##  Reproducibilidad
-Instalar dependencias:
-
-```bash
-pip install -r requirements.txt
+- Cada tarea incluye `solution.ipynb` y `report.pdf`
+- Código reproducible
