@@ -1,0 +1,14 @@
+# Entornos
+.venv/
+env/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos grandes
+data/raw/
+data/processed/
+
+# Sistema
+.DS_Store
