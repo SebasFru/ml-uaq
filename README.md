@@ -18,3 +18,6 @@ Estructura estándar del curso para tareas y proyecto final.
 
 python -m venv .venv Para crear el ambiente virtual
 para activarlo source .venv/Scripts/activate
+
+# ¿Como instalar los paquetes del proyecto?
+`pip install -r requirements.txt`
