@@ -15,3 +15,6 @@ Estructura estándar del curso para tareas y proyecto final.
 - No subir datos grandes
 - Cada tarea incluye `solution.ipynb` y `report.pdf`
 - Código reproducible
+
+python -m venv .venv Para crear el ambiente virtual
+para activarlo source .venv/Scripts/activate
